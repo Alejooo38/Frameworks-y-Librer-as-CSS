@@ -10,7 +10,7 @@ header {
   margin-left: 10%;
 }
 .logo {
-  width: 210px;
+  width: 180px;
 }
 
 #redes a img:hover{
@@ -36,13 +36,40 @@ a {
   color: black;
 }
 
-
-footer {
-	background-color: #343a40;
-	height: 60px;
+.container-fluid {  
+  width: 80%;
+  background-color: #bbdefb;
 }
-footer p{
-	color: white;
-	text-align: center;
-	padding-top: 20px;
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+.img-busto img{
+width: 60px;
+}
+
+#cont{
+  padding: 2%;
+}
+
+#side-content{
+  background-color: #fed960;
+  padding: 1%;
+}
+
+#buscador{
+  margin-top: 10px;
+}
+#buscador div button {
+  background-color: white;
+}
+
+.list-group-item{
+  margin-bottom: 1px;
+}
+.list-group-item:hover{
+  background-color: #444;
+    color: white;
 }
