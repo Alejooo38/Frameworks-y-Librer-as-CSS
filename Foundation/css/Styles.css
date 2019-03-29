@@ -1,0 +1,30 @@
+body {
+  background: url(../images/cocina.jpg);
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+div h1 {
+  color: #FFFFFF;
+  font-family: "Times New Roman", Times, serif;
+}
+
+div h5, h3{
+  color: #FFFFFF;
+  font-style: italic;
+}
+
+.callout {
+  background-color: rgba(116, 134, 170, 0.8);
+}
+
