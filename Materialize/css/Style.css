@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(130, 148, 159, 0.8);
+}
+.navegacion {
+background-color: #11A6F1;
+background-attachment: fixed;
+}
+
+footer{
+	height: 55px;
+	background-color: #444;
+}
+footer p{
+	text-align: center;
+	color: white;
+	padding-top: 1%;
+}
