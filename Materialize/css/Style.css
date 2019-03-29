@@ -5,7 +5,6 @@ body {
 background-color: #11A6F1;
 background-attachment: fixed;
 }
-
 .btn-large {
   background-color: #0767A1;
   border-radius: 20px;
@@ -13,7 +12,6 @@ background-attachment: fixed;
 .logo {
   width: 300px;
 }
-
 #boton_nav ul a {
   text-decoration: none;
   color: black;
@@ -39,6 +37,50 @@ section {
   height: 100%;
 }
 
+#autor img{
+  position: absolute;
+  border-radius: 35%;
+  left: 30px;
+  right: 7px;
+  top: 60px;
+
+}
+
+.img-social{
+  width: 50px;
+  height: 50px;
+  filter: grayscale(80%);
+
+}
+#social img:hover{
+  filter: brightness(60%);
+}
+
+#fotos img:hover{
+  filter: brightness(60%);
+}
+.turismo {
+  width: 90%;
+  max-width:400px;
+}
+.turismo2 {
+  width: 350px;
+}
+.autor {
+  width: 150px;
+}
+.callout {
+  background-color: rgba(29, 75, 219, 0.5);
+}
+.callout h5,p{
+  color: #FFFFFF;
+}
+form {
+color: white;
+}
+.btn {
+  color: blue;
+}
 footer{
 	height: 55px;
 	background-color: #444;
