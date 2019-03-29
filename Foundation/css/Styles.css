@@ -13,21 +13,17 @@ a {
   text-decoration: none;
   color: blue;
 }
-
 div h1 {
   color: #FFFFFF;
   font-family: "Times New Roman", Times, serif;
 }
-
 div h5, h3{
   color: #FFFFFF;
   font-style: italic;
 }
-
 .callout {
   background-color: rgba(116, 134, 170, 0.8);
 }
-
 .search-bar {
   border-radius: 30px;
   background-image: url("http://image.ibb.co/i7NbrQ/search_icon_15.png");
@@ -42,4 +38,17 @@ div h5, h3{
 }
 #favoritos img:hover{
   filter: brightness(60%);
+}
+#main-menu ul li{
+    border: 2px dashed lightgray;
+    background-color: white;
+    border-radius: 30px;
+    margin-bottom: 5px;
+}
+#main-menu ul li:hover{
+  background-color: #33D7FF;
+  border-radius: 30px;
+}
+#main-menu ul li a:hover{
+  color: black;
 }
