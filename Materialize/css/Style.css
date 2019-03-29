@@ -6,6 +6,39 @@ background-color: #11A6F1;
 background-attachment: fixed;
 }
 
+.btn-large {
+  background-color: #0767A1;
+  border-radius: 20px;
+}
+.logo {
+  width: 300px;
+}
+
+#boton_nav ul a {
+  text-decoration: none;
+  color: black;
+}
+#boton_nav ul a:hover {
+    background-color: #33D7FF;
+    border-radius: 30px;
+}
+header {
+font-style: italic;
+color: #FFFFFF;
+}
+.Slogan{
+  text-align: center;
+}
+section {
+  background: url(../img/Fondo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+
 footer{
 	height: 55px;
 	background-color: #444;
