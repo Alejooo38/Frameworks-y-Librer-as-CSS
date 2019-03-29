@@ -10,9 +10,8 @@ header {
   margin-left: 10%;
 }
 .logo {
-  width: 180px;
+  width: 300px;
 }
-
 #redes a img:hover{
   filter: brightness(70%);
 }
@@ -36,22 +35,23 @@ a {
   color: black;
 }
 
-.container-fluid {  
+.container-fluid {
+  margin-top: 20px;
   width: 80%;
   background-color: #bbdefb;
 }
 
 .img-social {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
 }
 
 .img-busto img{
-width: 60px;
+width: 80px;
 }
 
 #cont{
-  padding: 2%;
+  padding: 2.2%;
 }
 
 #side-content{
